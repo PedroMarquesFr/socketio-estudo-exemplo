@@ -1,1 +1,1 @@
-Principais funcoes ecomo configurar em um projeto com html e js puro
+Principais funcoes e como configurar em um projeto com scoket.io, html e js puro
